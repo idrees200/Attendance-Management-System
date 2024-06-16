@@ -1,0 +1,28 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                                                                                                          //
+//                                                                                                          //
+//   ********     **     **     ******       ******       **     **   ** ******  ******     **              //
+//  **            **** ****    **     *      **   **     ****    **   ** **    *   ||      ****             //
+// **             ** *** **     *****        ******     **  **   ******* ******    ||     **  **            //
+//  **            **  *  **    *     **      **    **  ********  **   ** ****      ||    ********           //
+//   ********     **     **      ****        ******   **      ** **   ** **  **  ****** **      **          //
+//                                                                                                          //
+//                                                                                                          //
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+WHO ARE YOU?
+1. A Teacher?
+2. A Student?
+3. Admin?
+ENTER YOUR CHOICE: 2
+
+ENTER USERNAME ?
+student1
+ENTER PASSWORD?
+student123
+INSTRUCTOR                     course
+Teacher1                      Programming
+STUDENT INFORMATION : 
+STUDENT 1       03-134212_1     student1@gmail.com   ATTENDENCE OF DAY   1    P	STUDENT 1       03-134212_1     student1@gmail.com   ATTENDENCE OF DAY   2    P	STUDENT 1       03-134212_1     student1@gmail.com   ATTENDENCE OF DAY   3    A	STUDENT 1       03-134212_1     student1@gmail.com   ATTENDENCE OF DAY   4    P	STUDENT 1       03-134212_1     student1@gmail.com   ATTENDENCE OF DAY   5    P	
+OVERRALL CLASS PERCENTAGE OF ATTENDENCE = 73.3333%
+YOUR WORK IS DONE LOGGING YOU OUT :)
