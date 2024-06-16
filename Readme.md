@@ -35,6 +35,4 @@ This C++ program manages student attendance records for a course taught by Teach
    - **Teacher:** Mark attendance and view class statistics.
    - **Student:** View personal attendance records.
 
-## Example Output
-```plaintext
-[Insert example output or screenshot here]
+
