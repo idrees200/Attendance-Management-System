@@ -1,0 +1,66 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                                                                                                          //
+//                                                                                                          //
+//   ********     **     **     ******       ******       **     **   ** ******  ******     **              //
+//  **            **** ****    **     *      **   **     ****    **   ** **    *   ||      ****             //
+// **             ** *** **     *****        ******     **  **   ******* ******    ||     **  **            //
+//  **            **  *  **    *     **      **    **  ********  **   ** ****      ||    ********           //
+//   ********     **     **      ****        ******   **      ** **   ** **  **  ****** **      **          //
+//                                                                                                          //
+//                                                                                                          //
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+WHO ARE YOU?
+1. A Teacher?
+2. A Student?
+3. Admin?
+ENTER YOUR CHOICE: 1
+
+ENTER USERNAME ?
+teacher1
+ENTER PASSWORD?
+teacher123
+ENTER NUMBER OF DAYS FOR ATTENDENCE
+5
+A REPRESENTS ABSENT & P REPRESENTS PRESENT
+ENTER SUDENT 1  ATTENDCE OF DAY  1
+P
+ENTER SUDENT 1  ATTENDCE OF DAY  2
+P
+ENTER SUDENT 1  ATTENDCE OF DAY  3
+A
+ENTER SUDENT 1  ATTENDCE OF DAY  4
+P
+ENTER SUDENT 1  ATTENDCE OF DAY  5
+P
+
+ENTER SUDENT 2  ATTENDCE OF DAY  1
+P
+ENTER SUDENT 2  ATTENDCE OF DAY  2
+A
+ENTER SUDENT 2  ATTENDCE OF DAY  3
+P
+ENTER SUDENT 2  ATTENDCE OF DAY  4
+P
+ENTER SUDENT 2  ATTENDCE OF DAY  5
+A
+
+ENTER SUDENT 3  ATTENDCE OF DAY  1
+P
+ENTER SUDENT 3  ATTENDCE OF DAY  2
+P
+ENTER SUDENT 3  ATTENDCE OF DAY  3
+P
+ENTER SUDENT 3  ATTENDCE OF DAY  4
+P
+ENTER SUDENT 3  ATTENDCE OF DAY  5
+P
+
+INSTRUCTOR                     course
+Teacher1                      Programming
+STUDENT              ROLLNO              EMAIL ID       DAY     ATTENDENCE
+STUDENT 1       03-134212_1     student1@gmail.com   ATTENDENCE OF DAY   1    P	STUDENT 1       03-134212_1     student1@gmail.com   ATTENDENCE OF DAY   2    P	STUDENT 1       03-134212_1     student1@gmail.com   ATTENDENCE OF DAY   3    A	STUDENT 1       03-134212_1     student1@gmail.com   ATTENDENCE OF DAY   4    P	STUDENT 1       03-134212_1     student1@gmail.com   ATTENDENCE OF DAY   5    P	
+STUDENT 2       03-134212_2     student2@gmail.com   ATTENDENCE OF DAY   1    P	STUDENT 2       03-134212_2     student2@gmail.com   ATTENDENCE OF DAY   2    A	STUDENT 2       03-134212_2     student2@gmail.com   ATTENDENCE OF DAY   3    P	STUDENT 2       03-134212_2     student2@gmail.com   ATTENDENCE OF DAY   4    P	STUDENT 2       03-134212_2     student2@gmail.com   ATTENDENCE OF DAY   5    A	
+STUDENT 3       03-134212_3     student3@gmail.com   ATTENDENCE OF DAY   1    P	STUDENT 3       03-134212_3     student3@gmail.com   ATTENDENCE OF DAY   2    P	STUDENT 3       03-134212_3     student3@gmail.com   ATTENDENCE OF DAY   3    P	STUDENT 3       03-134212_3     student3@gmail.com   ATTENDENCE OF DAY   4    P	STUDENT 3       03-134212_3     student3@gmail.com   ATTENDENCE OF DAY   5    P	
+OVERRALL CLASS PERCENTAGE OF ATTENDENCE = 73.3333%
+YOUR WORK IS DONE LOGGING YOU OUT :)
