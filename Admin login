@@ -1,0 +1,37 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//                                                                                                          //
+//                                                                                                          //
+//   ********     **     **     ******       ******       **     **   ** ******  ******     **              //
+//  **            **** ****    **     *      **   **     ****    **   ** **    *   ||      ****             //
+// **             ** *** **     *****        ******     **  **   ******* ******    ||     **  **            //
+//  **            **  *  **    *     **      **    **  ********  **   ** ****      ||    ********           //
+//   ********     **     **      ****        ******   **      ** **   ** **  **  ****** **      **          //
+//                                                                                                          //
+//                                                                                                          //
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+WHO ARE YOU?
+1. A Teacher?
+2. A Student?
+3. Admin?
+ENTER YOUR CHOICE: 3
+
+ENTER USERNAME ?
+admin1
+ENTER PASSWORD?
+admin123
+CHOOSE ANY OPTION
+1.ADD NEW INFORMATION
+2.CHOOSE PREVIOUS INFORMATION
+1
+INSTRUCTOR                     course
+Teacher1                      Programming
+ENTER NUMBER OF STUDENTS YOU WANT TO ADD?3
+TOTAL STUDENTS :
+STUDENT                ROLLNO                EMAIL ID
+student 1           03-134212_1        student1@gmail.com
+student 2           03-134212_2        student2@gmail.com
+student 3           03-134212_3        student3@gmail.com
+press 1 to add more students or any button to end
+2
+YOUR WORK IS DONE LOGGING YOU OUT :)
